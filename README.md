@@ -1,9 +1,7 @@
-### Hi there 👋
+### Hi my name is Jan Klusáček and this is my profile
 
 <!--
 **Sacek073/Sacek073** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -14,3 +12,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- I'm currently studing Cybersecurity at Brno University of Technology.
+- You can reach me on [LinkedIn](https://www.linkedin.com/in/jan-klus%C3%A1%C4%8Dek-6aa359221/), where you can also see my knowledge and previous working expiriences.
+![Saceks's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sacek07321&show_icons=true&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sacek073&layout=compact&hide=Jupyter%20Notebook)
+
