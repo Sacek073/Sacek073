@@ -15,7 +15,6 @@
 
 - I'm currently studing Cybersecurity at Brno University of Technology.
 - You can reach me on [LinkedIn](https://www.linkedin.com/in/jan-klus%C3%A1%C4%8Dek-6aa359221/), where you can also see my knowledge and previous working expiriences.
-- Right now I'm workin at [Dlubal Software](https://www.dlubal.com/en)
   
 ![Saceks's GitHub stats](https://github-readme-stats-one-orpin-15.vercel.app/api?username=Sacek073&show_icons=true&theme=onedark)
 ![Top Langs](https://github-readme-stats-one-orpin-15.vercel.app/api/top-langs/?username=Sacek073&layout=compact&hide=Jupyter%20Notebook&theme=onedark)
