@@ -13,7 +13,7 @@
 - ⚡ Fun fact: ...
 -->
 
-- I finished Cybersecurity at Brno University of Technology Masters proggrame.
+- I finished Cybersecurity at Brno University of Technology Masters programme.
 - I'm currently working in [Aricoma](https://www.aricoma.com/cs/home) in Cybersecurity division as Security Specialist.
 - You can reach me on [LinkedIn](https://www.linkedin.com/in/jan-klus%C3%A1%C4%8Dek-6aa359221/), where you can also see my knowledge and previous working expiriences.
   
